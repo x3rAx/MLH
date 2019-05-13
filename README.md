@@ -7,7 +7,7 @@ Repository from the Machine Learning Hackathon at FHWS
 - Tutorial-Notes: intro_notes.pdf
 
 - Competition Data: dataset.csv
-- Competition Notebook: notebook.ipynb
+- Competition Notebook of your solution: notebook.ipynb
 
 ## Delivery of your solution
 1. Clone the repository.
