@@ -1,6 +1,5 @@
 ./vscode/*
-./ipynb_checkpoints/*
-.ipynb_checkpoints/bank-marketing-campaign-opening-a-term-deposit-checkpoint.ipynb
+.ipynb_checkpoints/*
 .vscode/settings.json
 solution.ipynb
 evaluation.csv
