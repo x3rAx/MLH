@@ -19,9 +19,9 @@ Repository from the Machine Learning Hackathon at FHWS
 
 ## Important notes
 - Please _ensure_ that the notebook plus the files are runnable as _standalone_ from a computer with python > 3.5 
-- The last cell of the notebook should show the evaluation of dataset and should not be changed! 
-- That means that in the course of the notebook, the final trained model should be at some point named like "model".
+- The last cell of the notebook should show the evaluation of dataset. This cell loads the evaluation data which will determine the final winner. This cell should use your preprocessing steps etc. and ouput the accuracy of your trained model.
 - The model _should_ be from type scipy or keras!
 - The cell can be tested by merely renaming the dataset to evaluation.csv 
+- *Only this last cell will be evaluated. Hence, make sure this contains everthing to obtain your best performance.*
 
 ### If there are any problems, contact your scrum master. Ensure carefully that your team meets the above requirements; otherwise your team will be excluded from the competition!
