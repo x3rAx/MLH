@@ -1,8 +1,0 @@
-./vscode/*
-.ipynb_checkpoints/*
-.vscode/settings.json
-solution.ipynb
-evaluation.csv
-bank.csv
-sampling.py
-.ipynb_checkpoints/solution-checkpoint.ipynb

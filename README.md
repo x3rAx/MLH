@@ -1,27 +1,4 @@
-# MLH
-Repository from the Machine Learning Hackathon at FHWS
+Jonas die MG
+============
 
-## Content of this Repository:
-
-- Tutorial-Slides: introduction.pdf
-- Tutorial-Notes: intro_notes.pdf
-
-- Competition Data: dataset.csv
-- Competition Notebook of your solution: notebook.ipynb
-
-## Delivery of your solution
-1. Clone the repository.
-2. Use the competition notebook (notebook.ipynb) to present your final solution. Fill the required cells with your solution.
-3. Rename it to your team name or number. 
-4. The notebook and dataset.csv plus any additional data/files plus should be zipped.
-5. Rename zip-file to your team name or number. 
-6. Send the zip file to christoph.raab@fhws.de. The file must not be larger than 50mb!
-
-## Important notes
-- Please _ensure_ that the notebook plus the files are runnable as _standalone_ from a computer with python > 3.5 
-- The last cell of the notebook should show the evaluation of dataset. This cell loads the evaluation data which will determine the final winner. This cell should use your preprocessing steps etc. and ouput the accuracy of your trained model.
-- The model _should_ be from type scipy or keras!
-- The cell can be tested by merely renaming the dataset to evaluation.csv 
-- *Only this last cell will be evaluated. Hence, make sure this contains everthing to obtain your best performance.*
-
-### If there are any problems, contact your scrum master. Ensure carefully that your team meets the above requirements; otherwise your team will be excluded from the competition!
+![](https://66.media.tumblr.com/321811dbb878ab268da8d0239b56ff5e/tumblr_o0ek43fhCB1udh5n8o1_500.gif)
